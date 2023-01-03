@@ -14,13 +14,14 @@ I used Microsoft Excel to analized and provided insights on customers's data for
 I helped the State Of Massachusetts develop a Tableau dashboard to show the State's School System. What are the best / worst-performing schools?
 
 ---
-#### [Power Bi Project]
+#### [Upcoming Power Bi Project]
 
 
 ---
 #### [Upcoming SQL project]
 
-
+---
+#### [Upcoming R Project]
 ---
 
 ### Projects by Tool 
