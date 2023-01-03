@@ -5,12 +5,12 @@
 ### Learn About My Projects
 
 #### [What if DoorDash hires you?](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="DoorDash's Project Image.png?raw=true"/>
 I used Microsoft Excel to analized and provided insights on customers's data for DoorDash's Marketing Team.  Would customers spend more on DoorDash if they make more? Let's find out!
 
 ---
 #### [What is going on in Massachusetts?](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+<img src="images/Massachusetts Edu Project's Image .png?raw=true"/>
 I helped the State Of Massachusetts develop a Tableau dashboard to show the State's School System. What are the best / worst-performing schools?
 
 ---
