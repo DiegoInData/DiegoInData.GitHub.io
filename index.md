@@ -12,17 +12,8 @@ I used Microsoft Excel to analized and provided insights on customers's data for
 #### [What is going on in Massachusetts?](https://www.linkedin.com/pulse/what-happening-massachusetts-diego-aguilera/?trackingId=hKn%2Bh6JtT2Wp7sni%2B1WaFQ%3D%3D)
 <img src="images/Massachusetts Edu Project's Image .png?raw=true"/>
 I helped the State Of Massachusetts develop a Tableau dashboard to show the State's School System. What are the best / worst-performing schools?
-
----
-#### [Upcoming Power Bi Project]
-
-
----
-#### [Upcoming SQL project]
-
----
-#### [Upcoming R Project]
----
+ 
+ ---
 
 ### Projects by Tool 
 
