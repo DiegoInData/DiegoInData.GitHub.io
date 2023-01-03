@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [What if DoorDash hires you?](https://www.linkedin.com/pulse/what-doordash-hires-you-diego-aguilera/)
-<img src="DoorDash's Project Image.png?raw=true"/>
+<img src="images/DoorDash's Project Image.png?raw=true"/>
 I used Microsoft Excel to analized and provided insights on customers's data for DoorDash's Marketing Team.  Would customers spend more on DoorDash if they make more? Let's find out!
 
 ---
