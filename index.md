@@ -1,17 +1,17 @@
-# Welcome to My Portfolio
+# Welcome to my portfolio 
 
 ---
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [What if DoorDash hires you?](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+I used Microsoft Excel to analized and provided insights on customers's data for DoorDash's Marketing Team.  Would customers spend more on DoorDash if they make more? Let's find out!
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [What is going on in Massachusetts?](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+I helped the State Of Massachusetts develop a Tableau dashboard to show the State's School System. What are the best / worst-performing schools?
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
@@ -20,7 +20,7 @@ My final write up for Avery Smith's 21 Days To Data project covering New York Ci
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Upcoming SQL project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
@@ -31,11 +31,11 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Excel Projects](http://example.com/)
+- [Tableau Projects](http://example.com/)
+- [SQL Projects](http://example.com/)
+- [Power BI Projects](http://example.com/)
+- [R Projects](http://example.com/)
 
 ---
 
