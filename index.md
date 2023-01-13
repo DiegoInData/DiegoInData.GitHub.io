@@ -14,6 +14,13 @@ I used Microsoft Excel to analized and provided insights on customers's data for
 I helped the State Of Massachusetts develop a Tableau dashboard to show the State's School System. What are the best / worst-performing schools?
  
  ---
+---
+#### [These countries borrow the most money in Latin America!](https://www.linkedin.com/pulse/countries-borrow-most-money-latin-america-diego-aguilera/?trackingId=uRC1zNcn3UxjAdFMah2PmA%3D%3D)
+<img src="images/Massachusetts Edu Project's Image .png?raw=true"/>
+ I was prompted to work as a financial analyst for the World Bank. I found some interesting results using SQL. I focused on Latin America and the Caribbean region
+ ---
+
+
 
 ### Projects by Tool 
 
