@@ -24,7 +24,7 @@ I helped the State Of Massachusetts develop a Tableau dashboard to show the Stat
 
 - [Excel Projects](https://www.linkedin.com/pulse/what-doordash-hires-you-diego-aguilera)
 - [Tableau Projects](https://www.linkedin.com/pulse/what-happening-massachusetts-diego-aguilera/?trackingId=hKn%2Bh6JtT2Wp7sni%2B1WaFQ%3D%3D)
-- [SQL Projects](https://www.linkedin.com/pulse/countries-borrow-most-money-latin-america-diego-aguilera/?)
+- [SQL Projects](https://www.linkedin.com/pulse/countries-borrow-most-money-latin-america-diego-aguilera/?trackingId=uRC1zNcn3UxjAdFMah2PmA%3D%3D)
 - [Power BI Projects]
 - [R Project
 
