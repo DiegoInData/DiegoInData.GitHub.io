@@ -20,15 +20,13 @@ I helped the State Of Massachusetts develop a Tableau dashboard to show the Stat
  I was prompted to work as a financial analyst for the World Bank. I found some interesting results using SQL. I focused on Latin America and the Caribbean region
  ---
 
-
-
 ### Projects by Tool 
 
 - [Excel Projects](https://www.linkedin.com/pulse/what-doordash-hires-you-diego-aguilera)
 - [Tableau Projects](https://www.linkedin.com/pulse/what-happening-massachusetts-diego-aguilera/?trackingId=hKn%2Bh6JtT2Wp7sni%2B1WaFQ%3D%3D)
-- [SQL Projects]  
+- [SQL Projects](https://www.linkedin.com/pulse/countries-borrow-most-money-latin-america-diego-aguilera/?)
 - [Power BI Projects]
-- [R Projects]
+- [R Project
 
 ---
 
