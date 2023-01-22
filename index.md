@@ -21,7 +21,7 @@ Prompted to work as a financial analyst for the World Bank. I found some interes
 
 
 #### [Data Analytics in healthcare](https://www.linkedin.com/pulse/data-analytics-healthcare-diego-aguilera/?trackingId=JmhUqjo%2BN3rC7Q8PPlGM0Q%3D%3D)
-<img src="images/SQL ANALYSIS (1).png?raw=true"/>
+<img src="images/Untitled design (3).png?raw=true"/>
 
 
 Hired as a data analyst for a hospital to help them get insight from patients' data including medications, treatments, days they spent in the hospital, demographics, and more.
