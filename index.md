@@ -23,5 +23,5 @@ Helped the State Of Massachusetts develop a Tableau dashboard to show the State'
 #### Excel [What if DoorDash hires you?](https://www.linkedin.com/pulse/what-doordash-hires-you-diego-aguilera/)
 <img src="images/DoorDash's Project Image.png?raw=true"/>
 Used Microsoft Excel to analized and provided insights on customers's data for DoorDash's Marketing Team.  Would customers spend more on DoorDash if they make more? Let's find out!
-
+ 
 
