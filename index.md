@@ -3,6 +3,9 @@
 
 ### Learn About My Projects
 
+### Tableau [How data analytics helps NBA teams?](https://www.linkedin.com/pulse/how-data-analytics-helps-nba-teams-diego-aguilera/?trackingId=wBlDJ934SByAz3GQXR10pQ%3D%3D)
+<img src="images/NBA.png?raw=true"/>
+Helped the Utah Jazzs (NBA) with key information as quickly as possible (time), used Tableau to cut down the analysis time and help the coach to take actions during the games.
 
 #### MYSQL [Data Analytics in healthcare](https://www.linkedin.com/pulse/data-analytics-healthcare-diego-aguilera/?trackingId=JmhUqjo%2BN3rC7Q8PPlGM0Q%3D%3D)
 <img src="images/Untitled design (3).png?raw=true"/>
