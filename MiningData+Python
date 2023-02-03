@@ -1,1 +1,9 @@
-Silica Prediction in Iron Ore
+# Maximizing Iron Concentration: An Insightful Analysis with Python
+
+Dive into the world of mining data analysis with me. As a newly hired data analyst for Metals R' Us, I was tasked with analyzing real data from their flotation plant from March 2017 to September 2017. 
+
+The way the process works is first the iron ore goes through a flotation process to become cleaner. Then the ore is mixed with starch and amine to remove dirt, and last the air bubbles are added to separate the iron and minerals. The process happens in three steps.
+
+Containing columns sampled every 20 seconds and others every hour, I uncovered insights about the purity of iron concentrate using a comprehensive toolkit of Python, Pandas, print statements, mathematical operations, functions, loops, and data visualization. Join me as I share my findings and demonstrate the power of data analysis.
+
+[THE DATA ](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download)
