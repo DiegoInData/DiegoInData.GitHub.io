@@ -6,4 +6,5 @@ The way the process works is first the iron ore goes through a flotation process
 
 Containing columns sampled every 20 seconds and others every hour, I uncovered insights about the purity of iron concentrate using a comprehensive toolkit of Python, Pandas, print statements, mathematical operations, functions, loops, and data visualization. Join me as I share my findings and demonstrate the power of data analysis.
 
-[THE DATA](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download)
+<a href="https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download">THE DATA</a>
+
