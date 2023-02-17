@@ -20,7 +20,7 @@ Hired as a data analyst for a hospital to help them get insight from patients' d
 <img src="images/SQL ANALYSIS (1).png?raw=true"/>
 Prompted to work as a financial analyst for the World Bank. I found some interesting results using SQL. I focused on Latin America and the Caribbean region.
 
-
+ 
 #### Tableau [What is going on in Massachusetts?](https://www.linkedin.com/pulse/what-happening-massachusetts-diego-aguilera/?trackingId=hKn%2Bh6JtT2Wp7sni%2B1WaFQ%3D%3D)
 <img src="images/Massachusetts Edu Project's Image .png?raw=true"/>
 Helped the State Of Massachusetts develop a Tableau dashboard to show the State's School System. What are the best / worst-performing schools?
