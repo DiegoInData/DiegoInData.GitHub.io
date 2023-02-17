@@ -4,7 +4,7 @@
 ### Learn About My Projects
 
 #### Python                                                                                                                                        [From Messy Data to Mining Insights with Python](https://www.linkedin.com/pulse/from-messy-data-mining-insights-python-diego-aguilera%3FtrackingId=af0EbOkqTmeiinvbgwqytQ%253D%253D/?trackingId=af0EbOkqTmeiinvbgwqytQ%3D%3D)
-<img src="images/NBA.png?raw=true"/>
+<img src="images/image_2023-02-17_121726410.png?raw=true"/>
 Dive into the world of mining data analysis with me. As a newly hired data analyst for Metals R' Us, I was tasked with analyzing real data from their flotation plant.
 
 #### Tableau [How data analytics helps NBA teams?](https://www.linkedin.com/pulse/how-data-analytics-helps-nba-teams-diego-aguilera/?trackingId=wBlDJ934SByAz3GQXR10pQ%3D%3D)
