@@ -3,7 +3,11 @@
 
 ### Learn About My Projects
 
-### Tableau [How data analytics helps NBA teams?](https://www.linkedin.com/pulse/how-data-analytics-helps-nba-teams-diego-aguilera/?trackingId=wBlDJ934SByAz3GQXR10pQ%3D%3D)
+#### Python                                                                                                                                        [From Messy Data to Mining Insights with Python](https://www.linkedin.com/pulse/from-messy-data-mining-insights-python-diego-aguilera%3FtrackingId=af0EbOkqTmeiinvbgwqytQ%253D%253D/?trackingId=af0EbOkqTmeiinvbgwqytQ%3D%3D)
+<img src="images/image_2023-02-17_121726410.png?raw=true"/>
+Helped the Utah Jazzs (NBA) with key information as quickly as possible (time), used Tableau to cut down the analysis time and help the coach to take actions during the games.
+
+#### Tableau [How data analytics helps NBA teams?](https://www.linkedin.com/pulse/how-data-analytics-helps-nba-teams-diego-aguilera/?trackingId=wBlDJ934SByAz3GQXR10pQ%3D%3D)
 <img src="images/NBA.png?raw=true"/>
 Helped the Utah Jazzs (NBA) with key information as quickly as possible (time), used Tableau to cut down the analysis time and help the coach to take actions during the games.
 
